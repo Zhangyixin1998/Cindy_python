@@ -21,7 +21,7 @@ for key in dic1:
 	print(str(key[1])+"\t"+key[0]);
 	i += 1;
 	if(i == 10):
-        break;
+            break;
         
 print("-----\t-----");
 
@@ -32,7 +32,7 @@ for key in dic2:
 	print(str(key[1])+"\t"+key[0]);
 	j += 1;
 	if(j == 10):
-        break;
+            break;
 
 
 
