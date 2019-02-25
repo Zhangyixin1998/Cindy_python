@@ -1,4 +1,4 @@
-# cindy
+# cindy_python
 本学期张以欣的python作业
 ### team_work
 小组项目的部分成果（详细请见组长处）
