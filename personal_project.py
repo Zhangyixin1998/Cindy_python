@@ -73,4 +73,4 @@ def geturl(url, k):#获取前十页各网页url
 
 
 if __name__ == '__main__':
-    gettxtfromBaidu('吴京')
+    gettxtfromBaidu('张以欣')
